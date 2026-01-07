@@ -4,7 +4,7 @@
 📊 Interested in Machine Learning, NLP, ETL Pipeline, and MLOps  
 
 🌱 Currently learning: Applied ML & MLOps  
-🔗 Portfolio: Data Science & ML Projects  
+🔗 Portfolio: [Check out my work here](https://github.com/gesang-aja/data-science-ml-portfolio)
 
 🛠 Tech Stack:
 - Python, SQL
