@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Gesang Nur Zamroji, 
-
-👋Hi I'm Gesang Nur ZamrojiI'm AI/ML and Data Science enthusiasts<br><br>🏫currently studying Data Science at Surabaya State University<br><br>📊 Interested in Machine Learning, NLP, ETL Pipeline, and MLOps<br><br>🌱 Currently learning: NLP, Image processing, and MLOps<br><br>🔗 Portfolio: [Check out my work here](https://github.com/gesang-aja/data-science-ml-portfolio)
+👋 HiI'm Gesang Nur Zamroji, AI/ML and Data Science enthusiasts<br><br>🏫currently studying Data Science at Surabaya State University<br><br>📊 Interested in Machine Learning, NLP, ETL Pipeline, and MLOps<br><br>🌱 Currently learning: NLP, Image processing, and MLOps<br><br>🔗 Portfolio: [Check out my work here](https://github.com/gesang-aja/data-science-ml-portfolio)
 
 
 ## 🌐 Socials:
